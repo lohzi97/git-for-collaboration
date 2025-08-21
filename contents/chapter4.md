@@ -1,0 +1,3 @@
+Chapter 4: The Perils of Productivity
+
+At first, Alex’s superpower was a blessing. His boss was thrilled, his colleagues were in awe, and he was hailed as a coding prodigy. He was promoted, given a raise, and became the go-to person for every impossible task. But soon, the dark side of his power began to reveal itself. The company, seeing his incredible productivity, started piling on more and more work. Deadlines that were once impossible were now considered standard. Alex found himself working longer hours than ever before, his fingers a constant blur on the keyboard. His social life dwindled to nothing, and his only companions were the glowing screen and the ever-present hum of the lava lamp.
