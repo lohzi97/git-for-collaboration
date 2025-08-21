@@ -1,3 +1,3 @@
-Chapter 2: The Spark of Genius
+# Chapter 2: The Spark of Genius
 
 One stormy evening, as Alex was working late, a freak power surge caused the office lights to flicker and die. In a moment of frustration, he slammed his fist on his desk, right next to a bizarre, glowing lava lamp he had won at a tech conference. A massive bolt of lightning struck the building, and a surge of energy traveled through the electrical wiring, through the lava lamp, and directly into Alex’s outstretched hand. The world went white, and for a moment, Alex felt every line of code he had ever written flash before his eyes. When he came to, the office was dark, and the only light was the faint, pulsating glow of the lava lamp, which now seemed to hum with a strange energy.

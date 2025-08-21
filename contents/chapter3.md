@@ -1,3 +1,3 @@
-Chapter 3: The Hundred-Fold Coder
+# Chapter 3: The Hundred-Fold Coder
 
 The next morning, Alex woke up feeling strangely invigorated. He sat down at his desk, and as he started to type, something incredible happened. His fingers flew across the keyboard at a speed he had never imagined possible. Lines of code appeared on his screen as if by magic, clean, efficient, and bug-free. He completed a task that would have taken him a week in a mere hour. The "Connect-a-Pet" app, which had been a source of endless frustration, was now a playground for his newfound abilities. He fixed bugs in seconds, implemented new features in minutes, and even had time to add a "bark-to-text" translator for dogs, a feature that had been on the "someday, maybe" list for months.

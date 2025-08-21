@@ -1,3 +1,3 @@
-Ending
+# Ending
 
 Realizing that his power was a double-edged sword, Alex made a decision. He walked into the CEO’s office and, for the first time in months, spoke his mind. He explained that while he could do the impossible, it was coming at a great personal cost. He proposed a new way of working, one that focused on collaboration and sustainable pacing, rather than relying on his superhuman abilities. To his surprise, the CEO, who had been more focused on the results than the process, listened. Alex began to mentor his colleagues, sharing his insights and techniques, and in doing so, he found a way to control his power, using it to guide and empower others rather than just to produce. He became a true leader, and "Connect-a-Pet" was successfully launched, a testament to the power of teamwork, not just the speed of a single coder. Alex had found a balance, and for the first time in a long time, he was truly happy.

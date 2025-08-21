@@ -1,3 +1,3 @@
-Chapter 5: The Overload
+# Chapter 5: The Overload
 
 The final straw came when the CEO announced a new, impossibly ambitious project: a real-time, universal translator for every animal on the planet, to be completed in a week. The entire company’s hopes rested on Alex. As he began to code, he felt a strange sensation. The lines of code in his mind were no longer just text; they were a torrent of information, a roaring river of logic that threatened to overwhelm him. He could feel the thoughts of every animal in the vicinity flooding his brain – the anxious chirping of a bird outside his window, the hungry meow of a stray cat, the existential dread of a goldfish in a bowl. His superpower was no longer just about writing code; it was connecting him to the very fabric of communication, and it was too much to handle.
